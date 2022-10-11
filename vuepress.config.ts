@@ -4,6 +4,11 @@ export default defineUserConfig({
     lang: 'en-GB',
     title: 'ProductTrap',
     description: 'A driver-based product tracking library for PHP.',
+    markdown: {
+        code: {
+            lineNumbers: false
+        }
+    },
     theme: defaultTheme({
         repo: 'producttrap/producttrap',
         docsRepo: 'producttrap/docs',
