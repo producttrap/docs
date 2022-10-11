@@ -1,4 +1,4 @@
-## Exceptions
+# Handling Exceptions
 
 All ProductTrap exceptions implement the `ProductTrap\Contracts\ProductTrapException` interface, so you can catch all of
 them with:

@@ -3,16 +3,12 @@
 - [Core Drivers](#core-drivers)
 - [Custom Drivers](#custom-drivers)
 
-<a name="core-drivers"></a>
-
 ## Core Drivers
 
 ProductTrap provides the following drivers as part of the core collection:
 
 - [Waitrose](driver-waitrose.md)
 - [Woolworths Australia](driver-woolworths-australia.md)
-
-<a name="custom-drivers"></a>
 
 ## Custom Drivers
 
