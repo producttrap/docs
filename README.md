@@ -12,6 +12,6 @@ actions:
 
 <div align="center">
 
-Want more tracking capabilities? Try [ParcelTrap](https://parceltrap.voke.dev)
+Want more tracking capabilities? Try [ParcelTrap](https://docs.voke.dev/parceltrap)
 
 </div>
