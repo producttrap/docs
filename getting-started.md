@@ -12,7 +12,7 @@ permalink: /getting-started
    composer require producttrap/producttrap
    ```
 
-1. Next, install any relevant [ProductTrap drivers](./drivers).
+1. Next, install any relevant [ProductTrap drivers](/drivers).
    ```shell
    # Install the Waitrose driver
    composer require producttrap/driver-waitrose
@@ -21,7 +21,7 @@ permalink: /getting-started
 ## Initial Configuration
 
 All the configuration for ProductTrap is stored in arrays. Each option is documented for each driver, so feel free to
-look at the [driver documentation](./drivers).
+look at the [driver documentation](/drivers).
 
 The ProductTrap manager is bound to the Laravel container and can be retrieved as follows:
 
@@ -63,7 +63,7 @@ The `Product` object also provides access to raw (and additional) data from the 
 $data->raw; // array - Raw payload response from the provider
 ```
 
-The ProductTrap driver may throw exceptions as needed. See the [Handling Exceptions](./guides/handling-exceptions) guide
+The ProductTrap driver may throw exceptions as needed. See the [Handling Exceptions](/guides/handling-exceptions) guide
 for more information.
 
 ```php
