@@ -29,5 +29,6 @@ jobs:
                 "repository": "${{ env.REPOSITORY }}",
                 "path": "${{ env.PATH }}",
                 "uri-path": "${{ env.URI_PATH }}",
+                "command": "npm run prod -- --base '/producttrap/' --outDir",
                 "secret-token": "${{ secrets.DOCS_TOKEN }}"
             }

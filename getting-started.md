@@ -1,6 +1,5 @@
 ---
 title: Getting Started
-permalink: /getting-started
 ---
 
 # Getting Started
@@ -12,7 +11,7 @@ permalink: /getting-started
    composer require producttrap/producttrap
    ```
 
-1. Next, install any relevant [ProductTrap drivers](/drivers).
+1. Next, install any relevant [ProductTrap drivers](/drivers/).
    ```shell
    # Install the Waitrose driver
    composer require producttrap/driver-waitrose
@@ -21,7 +20,7 @@ permalink: /getting-started
 ## Initial Configuration
 
 All the configuration for ProductTrap is stored in arrays. Each option is documented for each driver, so feel free to
-look at the [driver documentation](/drivers).
+look at the [driver documentation](/drivers/).
 
 The ProductTrap manager is bound to the Laravel container and can be retrieved as follows:
 
