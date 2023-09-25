@@ -5,9 +5,9 @@
 This is a driver for [Woolworths Australia](https://woolworths.com.au). Check out
 the [repository on GitHub](https://github.com/producttrap/driver-woolworths-australia) for more information.
 
-* [Install](driver-woolworths-australia.md#install)
-* [Configuration](driver-woolworths-australia.md#configuration)
-* [Usage](driver-woolworths-australia.md#usage)
+- [Install](driver-woolworths-australia.md#install)
+- [Configuration](driver-woolworths-australia.md#configuration)
+- [Usage](driver-woolworths-australia.md#usage)
 
 ## Install
 
